@@ -1,4 +1,7 @@
-header {
+div {
 	color : aqua ; 
-	background-color : black;
+	background-color : black ;
+	font-size: 32px ;
+	text-align: center ;
+	font-weight: bold ;
 }
