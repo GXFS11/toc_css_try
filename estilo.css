@@ -33,3 +33,20 @@ div {
 	width : 90px;
 	height : 90px;
 	}
+img.cf {
+	float : right ;
+	height : 150px ;
+	}
+.clf {
+	/* overflow: auto; */
+	content : "" ;
+	clear : both ;
+	display : table ;
+	font: 20px 'Trebuchet MS', sans-serif;
+	text-align: left;
+	margin : 50px ;
+	padding : 50px ;
+	color : lawngreen ;
+	background-color: indigo ;
+	border : 4px double lawngreen ;
+	}
