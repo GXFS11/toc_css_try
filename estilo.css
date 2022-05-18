@@ -5,4 +5,31 @@ div {
 	text-align: center ;
 	font-weight: bold ;
 	border: 5px double black;
-}
+	}
+.sp {
+	color : white ; 
+	background-color : purple ;
+	border: 10px double hsl(0,0%,0%,0.8);
+	margin : -180px auto 20px;
+	padding : 20px;
+	width : 100px;
+	height : 70px;
+	font : bold 20px "Courier New", serif;
+	text-align: center;
+	}
+.sqb {
+	background-color : lightskyblue ;
+	border: 10px double black;
+	margin : 20px auto 20px 41%;
+	padding : 20px;
+	width : 90px;
+	height : 80px;
+	}
+.sqr {
+	background-color : lightcoral ;
+	border: 10px double black;
+	margin : -115px auto 20px 47%;
+	padding : 20px;
+	width : 90px;
+	height : 90px;
+	}
